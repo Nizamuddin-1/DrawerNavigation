@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Men"
+        android:icon="@drawable/ic_baseline_speaker_notes_24"
+        android:id="@+id/optNotes"/>
+    <item
+        android:title="Women"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:id="@+id/optHome"/>
+    <item
+        android:title="Kid's"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:id="@+id/optSetting"/>
+    <item android:id="@+id/sale"
+        android:title="Sale"
+        android:icon="@drawable/ic_baseline_point_of_sale_24"/>
+
+</menu>
